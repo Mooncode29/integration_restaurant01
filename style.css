@@ -99,13 +99,14 @@
 	color: black;
 }
 
+
+
 .services { 
 	
 	background-color: #FFEEE4;
 
-	border: solid;
 }
-.services h2 , p , h3{
+.services h2 , .services p , .services h3{
 
 	text-align: center;
 
@@ -127,7 +128,8 @@
 .services h2, .services h3{
 	color: #E53A40;
 }
-img {
+
+.services img {
 	 
     border-radius:75px;
    
@@ -136,6 +138,7 @@ img {
 	font-size: 4em;
 	font-weight: bold;
 }
+
 .contact h2 {
 	font-size: 20px;
 	color: #df405a;
@@ -153,3 +156,5 @@ button {
 .adresse {
 	text-align: right;
 }
+
+
