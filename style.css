@@ -136,4 +136,20 @@ img {
 	font-size: 4em;
 	font-weight: bold;
 }
+.contact h2 {
+	font-size: 20px;
+	color: #df405a;
+	text-align: center;
+}
 
+button {
+	background-color: #df405a
+
+}
+
+.texte {
+	text-align: right;
+}
+.adresse {
+	text-align: right;
+}
