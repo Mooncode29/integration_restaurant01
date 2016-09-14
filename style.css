@@ -1,0 +1,102 @@
+
+
+.categories {
+	background-color: #FFEEE4;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 30px;
+}
+
+.categories h2 {
+	text-align: center;
+	color: #E53A40;
+	font-weight: bold;
+	font-size: 4em;
+	padding: 30px;
+	margin: 0;
+}
+
+.categories p {
+	display: block;
+	color: grey;
+	margin: 10px auto;
+	padding: 5px;
+	text-align: center;
+	line-height: 1.4;
+	width: 40%;
+}
+
+.categories ul {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 30px;
+
+
+}
+
+.categories li {
+	display: inline-block;
+	border: solid black 1px;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.categories li a {
+	text-decoration: none;
+	color: black;
+}
+
+.list_plats {
+	display: flex;
+	flex-direction: column;
+	margin-top: 50px;
+
+	width: 100%;
+}
+
+.sublist {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	padding: 20px;
+}
+
+	
+
+.plat {
+
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+	width: 25%;
+}
+
+.plat * {
+	padding: 0;
+	margin: 5px;
+}
+
+.categories h3 {
+	font-weight: bold;
+	font-size: 1.7em;
+}
+
+.categories h5 {
+	font-size: 1em;
+
+}
+
+.categories > a:last-child {
+	display: flex;
+	width: 100px;
+	border: solid black 1px;
+	margin: 10px auto;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+
+}
+
