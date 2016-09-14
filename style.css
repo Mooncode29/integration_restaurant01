@@ -97,6 +97,43 @@
 	padding: 5px;
 	text-decoration: none;
 	color: black;
+}
 
+.services { 
+	
+	background-color: #FFEEE4;
+
+	border: solid;
+}
+.services h2 , p , h3{
+
+	text-align: center;
+
+	
+}
+.type_service{
+	text-align: center;
+	white-space: normal; 
+	margin: 6%;
+	display: inline-block;
+	width: 21%;
+	
+}
+.services p{
+	margin: 0 auto;
+	padding: 10px;
+	width: 40%;
+}
+.services h2, .services h3{
+	color: #E53A40;
+}
+img {
+	 
+    border-radius:75px;
+   
+}
+.services h2{
+	font-size: 4em;
+	font-weight: bold;
 }
 
